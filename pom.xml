@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.indigo</groupId>
-    <artifactId>sb-camel-kafka</artifactId>
+    <artifactId>flight-data-mock-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>sb-camel-kafka</name>
     <description>Demo project for Spring Boot</description>
