@@ -17,7 +17,7 @@ public class MockServiceRoute extends RouteBuilder {
                 .enableCORS(true)
                 .component("jetty")
                 .host("0.0.0.0")
-                .port(8082);
+                .port(8080);
 
         /**
          * A Mock Rest service to that return the flight Data.
